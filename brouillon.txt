@@ -1,0 +1,30 @@
+Brouillon!
+
+Il nous faut un site! Voila... c'est dit... Ciao!
+
+Bon sans rire, il nous faut un site qui nous présente, qui présente ce que l'on fait et qui donne des exemples de travaux... Il faut un site qui soit vraiment démarqué visuellement parlant mais pas en retard (on oublie les sites flash de 2002 please!)
+
+En terme de design je pensais a quelque chose comme : https://huemor.rocks/ 
+
+Mais dans ce cas là il va nous falloir des WebDesigners puissants (exemple : Audrey et Pierre!)
+
+Sinon concernant l'architecture quelque chose de simple non? 
+
+Accueil
+|
+| - Nos Travaux
+|
+| - Services
+|
+| - A propos
+|
+| - Contact
+
+Maintenant la question ... Un site OnePage? ... -_- 
+
+Besoin de Back-End? 
+Le seul back end que je vois serait pour le formulaire de contact... mais également pour nos Travaux, pour pouvoir actualiser / ajouter / supprimer des travaux...
+
+Un site sobre, petit et simple, dont la force résidera sur le FRONT!
+
+
